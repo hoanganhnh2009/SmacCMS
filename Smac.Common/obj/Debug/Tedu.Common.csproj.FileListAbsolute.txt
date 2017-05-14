@@ -1,0 +1,11 @@
+
+D:\Tedu.com.vn\Smac\Smac\Tedu.Common\bin\Debug\Tedu.Common.dll
+D:\Tedu.com.vn\Smac\Smac\Tedu.Common\bin\Debug\Tedu.Common.pdb
+D:\Tedu.com.vn\Smac\Smac\Tedu.Common\obj\Debug\Tedu.Common.csprojResolveAssemblyReference.cache
+D:\Tedu.com.vn\Smac\Smac\Tedu.Common\obj\Debug\Tedu.Common.dll
+D:\Tedu.com.vn\Smac\Smac\Tedu.Common\obj\Debug\Tedu.Common.pdb
+D:\Tedu.com.vn\Smac\TDShop\Tedu.Common\bin\Debug\Tedu.Common.dll
+D:\Tedu.com.vn\Smac\TDShop\Tedu.Common\bin\Debug\Tedu.Common.pdb
+D:\Tedu.com.vn\Smac\TDShop\Tedu.Common\obj\Debug\Tedu.Common.csprojResolveAssemblyReference.cache
+D:\Tedu.com.vn\Smac\TDShop\Tedu.Common\obj\Debug\Tedu.Common.dll
+D:\Tedu.com.vn\Smac\TDShop\Tedu.Common\obj\Debug\Tedu.Common.pdb

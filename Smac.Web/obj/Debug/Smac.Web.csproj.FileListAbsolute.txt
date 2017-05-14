@@ -1,0 +1,184 @@
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\roslyn\csc.exe
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\roslyn\vbc.exe
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\roslyn\VBCSCompiler.exe
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Smac.Web.dll.config
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Smac.Web.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Smac.Web.pdb
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Antlr3.Runtime.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\EntityFramework.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\EntityFramework.SqlServer.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.Owin.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.Owin.Security.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Newtonsoft.Json.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Owin.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\System.Net.Http.Formatting.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\System.Web.Helpers.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\System.Web.Http.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\System.Web.Http.WebHost.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\System.Web.Mvc.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\System.Web.Optimization.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\System.Web.Razor.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\System.Web.WebPages.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\System.Web.WebPages.Razor.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\WebGrease.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\System.Web.Helpers.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\System.Web.Mvc.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\System.Web.Optimization.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\System.Web.Razor.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\System.Web.WebPages.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\System.Web.WebPages.Razor.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Antlr3.Runtime.pdb
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Newtonsoft.Json.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\System.Net.Http.Formatting.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\System.Web.Http.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\System.Web.Http.WebHost.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\EntityFramework.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\EntityFramework.SqlServer.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.Owin.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.Owin.Security.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\obj\Debug\Smac.Web.csprojResolveAssemblyReference.cache
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\obj\Debug\Smac.Web.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\obj\Debug\Smac.Web.pdb
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Autofac.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Autofac.Integration.Mvc.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Autofac.Integration.WebApi.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\AutoMapper.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Smac.Data.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Smac.Model.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Smac.Service.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Tedu.Common.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Tedu.Common.pdb
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Smac.Data.pdb
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Smac.Model.pdb
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Smac.Service.pdb
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Autofac.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Autofac.Integration.Mvc.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\Autofac.Integration.WebApi.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\AutoMapper.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Web\bin\CKFinder.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\roslyn\csc.exe
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\roslyn\vbc.exe
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\roslyn\VBCSCompiler.exe
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Smac.Web.dll.config
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Smac.Web.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Smac.Web.pdb
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Antlr3.Runtime.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Autofac.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Autofac.Integration.Mvc.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Autofac.Integration.WebApi.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\AutoMapper.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\CKFinder.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\EntityFramework.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\EntityFramework.SqlServer.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.Owin.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.Owin.Security.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Newtonsoft.Json.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Owin.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Smac.Data.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Smac.Model.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Smac.Service.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\System.Net.Http.Formatting.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\System.Web.Helpers.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\System.Web.Http.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\System.Web.Http.WebHost.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\System.Web.Mvc.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\System.Web.Optimization.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\System.Web.Razor.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\System.Web.WebPages.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\System.Web.WebPages.Razor.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Tedu.Common.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\WebGrease.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Tedu.Common.pdb
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Smac.Data.pdb
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Smac.Model.pdb
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Smac.Service.pdb
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Autofac.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Autofac.Integration.Mvc.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Autofac.Integration.WebApi.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\AutoMapper.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\System.Web.Helpers.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\System.Web.Mvc.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\System.Web.Optimization.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\System.Web.Razor.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\System.Web.WebPages.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\System.Web.WebPages.Razor.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Antlr3.Runtime.pdb
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Newtonsoft.Json.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\System.Net.Http.Formatting.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\System.Web.Http.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\System.Web.Http.WebHost.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\EntityFramework.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\EntityFramework.SqlServer.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.Owin.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.Owin.Security.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\obj\Debug\Smac.Web.csprojResolveAssemblyReference.cache
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\obj\Debug\Smac.Web.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Web\obj\Debug\Smac.Web.pdb

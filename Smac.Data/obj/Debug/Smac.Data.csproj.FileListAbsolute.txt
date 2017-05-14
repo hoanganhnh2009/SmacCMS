@@ -1,0 +1,69 @@
+D:\Tedu.com.vn\Smac\TDShop\Smac.Data\bin\Debug\TedShop.Data.dll.config
+D:\Tedu.com.vn\Smac\TDShop\Smac.Data\bin\Debug\TedShop.Data.dll
+D:\Tedu.com.vn\Smac\TDShop\Smac.Data\bin\Debug\TedShop.Data.pdb
+D:\Tedu.com.vn\Smac\TDShop\Smac.Data\bin\Debug\EntityFramework.dll
+D:\Tedu.com.vn\Smac\TDShop\Smac.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tedu.com.vn\Smac\TDShop\Smac.Data\bin\Debug\Tedu.Common.dll
+D:\Tedu.com.vn\Smac\TDShop\Smac.Data\bin\Debug\Smac.Model.dll
+D:\Tedu.com.vn\Smac\TDShop\Smac.Data\bin\Debug\Tedu.Common.pdb
+D:\Tedu.com.vn\Smac\TDShop\Smac.Data\bin\Debug\Smac.Model.pdb
+D:\Tedu.com.vn\Smac\TDShop\Smac.Data\bin\Debug\EntityFramework.xml
+D:\Tedu.com.vn\Smac\TDShop\Smac.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tedu.com.vn\Smac\TDShop\Smac.Data\obj\Debug\Smac.Data.csprojResolveAssemblyReference.cache
+D:\Tedu.com.vn\Smac\TDShop\Smac.Data\obj\Debug\TedShop.Data.Migrations.Initial.resources
+D:\Tedu.com.vn\Smac\TDShop\Smac.Data\obj\Debug\Smac.Data.csproj.GenerateResource.Cache
+D:\Tedu.com.vn\Smac\TDShop\Smac.Data\obj\Debug\TedShop.Data.dll
+D:\Tedu.com.vn\Smac\TDShop\Smac.Data\obj\Debug\TedShop.Data.pdb
+D:\Tedu.com.vn\Smac\TDShop\Smac.Data\bin\Debug\Smac.Data.dll.config
+D:\Tedu.com.vn\Smac\TDShop\Smac.Data\bin\Debug\Smac.Data.dll
+D:\Tedu.com.vn\Smac\TDShop\Smac.Data\bin\Debug\Smac.Data.pdb
+D:\Tedu.com.vn\Smac\TDShop\Smac.Data\obj\Debug\Smac.Data.dll
+D:\Tedu.com.vn\Smac\TDShop\Smac.Data\obj\Debug\Smac.Data.pdb
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Data\bin\Debug\Smac.Data.dll.config
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Data\bin\Debug\Smac.Data.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Data\bin\Debug\Smac.Data.pdb
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Data\bin\Debug\EntityFramework.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Data\bin\Debug\Smac.Model.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Data\bin\Debug\Tedu.Common.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Data\bin\Debug\Tedu.Common.pdb
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Data\bin\Debug\Smac.Model.pdb
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Data\bin\Debug\EntityFramework.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Data\obj\Debug\Smac.Data.csprojResolveAssemblyReference.cache
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Data\obj\Debug\TedShop.Data.Migrations.Initial.resources
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Data\obj\Debug\Smac.Data.csproj.GenerateResource.Cache
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Data\obj\Debug\Smac.Data.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Data\obj\Debug\Smac.Data.pdb
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Data\obj\Debug\TedShop.Data.Migrations.IntergrateAspnetIdentity.resources
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Data\obj\Debug\TedShop.Data.Migrations.FixProduct.resources
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Data\obj\Debug\TedShop.Data.Migrations.RenameTableIdentity.resources
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Data\obj\Debug\TedShop.Data.Migrations.addusergroup.resources
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\bin\Debug\Smac.Data.dll.config
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\bin\Debug\Smac.Data.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\bin\Debug\Smac.Data.pdb
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\bin\Debug\EntityFramework.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\bin\Debug\Smac.Model.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\bin\Debug\Tedu.Common.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\bin\Debug\Tedu.Common.pdb
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\bin\Debug\Smac.Model.pdb
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\bin\Debug\EntityFramework.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\obj\Debug\Smac.Data.csprojResolveAssemblyReference.cache
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\obj\Debug\TedShop.Data.Migrations.Initial.resources
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\obj\Debug\TedShop.Data.Migrations.IntergrateAspnetIdentity.resources
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\obj\Debug\TedShop.Data.Migrations.FixProduct.resources
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\obj\Debug\TedShop.Data.Migrations.RenameTableIdentity.resources
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\obj\Debug\TedShop.Data.Migrations.addusergroup.resources
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\obj\Debug\Smac.Data.csproj.GenerateResource.Cache
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\obj\Debug\Smac.Data.dll
+D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\obj\Debug\Smac.Data.pdb

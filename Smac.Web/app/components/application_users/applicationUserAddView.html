@@ -1,0 +1,117 @@
+﻿<div class="row">
+    <div class="col-md-12">
+        <div class="portlet light ">
+            <div class="portlet-title">
+                <div class="caption font-red-sunglo">
+                    <span class="caption-subject bold uppercase">Thêm người dùng</span>
+                </div>
+                <div class="actions">
+                    <a class="btn btn-circle btn-icon-only blue" href="javascript:;">
+                        <i class="icon-cloud-upload"></i>
+                    </a>
+                    <a class="btn btn-circle btn-icon-only green" href="javascript:;">
+                        <i class="icon-wrench"></i>
+                    </a>
+                    <a class="btn btn-circle btn-icon-only red" href="javascript:;">
+                        <i class="icon-trash"></i>
+                    </a>
+                    <a class="btn btn-circle btn-icon-only btn-default fullscreen" href="javascript:;" data-original-title="" title=""> </a>
+                </div>
+            </div>
+            <div class="portlet-body form">
+                <form class="form-horizontal" novalidate name="frmAddAccount" ng-submit="addAccount()">
+                    <div class="form-body">
+                        <div class="form-group form-md-line-input" ng-class="{ 'has-error' : frmAddAccount.name.$invalid && !frmAddAccount.name.$pristine }">
+                            <label class="col-md-3 control-label" for="form_control_1">
+                                Họ tên người dùng
+                                <span class="required" aria-required="true">*</span>
+                            </label>
+                            <div class="col-md-9">
+                                <input type="text" name="name" class="form-control"
+                                       required reqired-message="Họ tên bắt buộc." ng-model="account.FullName">
+                                <div class="form-control-focus"> </div>
+                                <span class="help-block ">Tên người dùng là bắt buộc</span>
+                            </div>
+                        </div>
+                        <div class="form-group form-md-line-input" ng-class="{ 'has-error' : frmAddAccount.userName.$invalid && !frmAddAccount.userName.$pristine }">
+                            <label class="col-md-3 control-label" for="form_control_1">
+                                Tài khoản
+                                <span class="required" aria-required="true">*</span>
+                            </label>
+                            <div class="col-md-9">
+                                <input type="text" name="userName" class="form-control"
+                                       required reqired-message="Tài khoản bắt buộc." ng-model="account.UserName">
+                                <div class="form-control-focus"> </div>
+                                <span class="help-block">Tài khoản bắt buộc</span>
+                            </div>
+                        </div>
+                        <div class="form-group form-md-line-input" ng-class="{ 'has-error' : frmAddAccount.password.$invalid && !frmAddAccount.password.$pristine }">
+                            <label class="col-md-3 control-label">
+                                Mật khẩu
+                                <span class="required" aria-required="true">*</span>
+                            </label>
+                            <div class="col-md-9">
+                                <input type="password" name="password" class="form-control"
+                                       required reqired-message="Mật khẩu bắt buộc." ng-model="account.Password">
+                            </div>
+                        </div>
+                        <div class="form-group form-md-line-input" ng-class="{ 'has-error' : frmAddAccount.email.$invalid && !frmAddAccount.email.$pristine }">
+                            <label class="col-md-3 control-label">
+                                Email
+                                <span class="required" aria-required="true">*</span>
+                            </label>
+                            <div class="col-md-9">
+                                <input type="email" name="email" class="form-control"
+                                       required reqired-message="Email bắt buộc." ng-model="account.Email">
+                            </div>
+                        </div>
+                        <div class="form-group form-md-line-input">
+                            <label class="col-md-3 control-label">
+                                Điện thoại
+                            </label>
+                            <div class="col-md-9">
+                                <input type="text" name="password" class="form-control"
+                                       ng-model="account.PhoneNumber">
+                            </div>
+                        </div>
+                        <div class="form-group form-md-line-input" ng-class="{ 'has-error' : frmAddAccount.birthDate.$invalid && !frmAddAccount.birthDate.$pristine }">
+                            <label class="col-md-3 control-label">
+                                Ngày sinh
+                                <span class="required" aria-required="true">*</span>
+                            </label>
+                            <div class="col-md-9">
+                                <input type="date" name="birthDate" class="form-control"
+                                       required reqired-message="Ngày sinh bắt buộc." ng-model="account.BirthDay">
+                            </div>
+                        </div>
+                        <div class="form-group form-md-line-input" ng-class="{ 'has-error' : frmAddAccount.birthDate.$invalid && !frmAddAccount.birthDate.$pristine }">
+                            <label class="col-md-3 control-label">
+                                Nhóm quyền
+                                <span class="required" aria-required="true">*</span>
+                            </label>
+                            <div class="col-md-9">
+                                <div class="md-checkbox" ng-repeat="group in groups">
+                                    <input type="checkbox" id="checkbox1_{{group.ID}}" name="group" value="1" checklist-model="account.Groups" class="md-check" checklist-value="group">
+                                    <label for="checkbox1_{{group.ID}}">
+                                        <span class="inc"></span>
+                                        <span class="check"></span>
+                                        <span class="box"></span>{{group.Name}}
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-actions">
+                        <div class="row">
+                            <div class="col-md-offset-3 col-md-9">
+                                <a ui-sref="application_users" class="btn btn-default">Hủy bỏ</a>
+                                <input type="submit" ng-disabled="frmAddAccount.$invalid" class="btn btn-primary" value="Lưu lại" />
+                                <button type="reset" class="btn default">Reset</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

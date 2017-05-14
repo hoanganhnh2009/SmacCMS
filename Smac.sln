@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smac.Common", "Smac.Common\Smac.Common.csproj", "{FA7F106C-3146-41C0-8A9F-05C66C669D51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smac.Model", "Smac.Model\Smac.Model.csproj", "{26800821-A551-412F-B15A-404F6525A08A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smac.Data", "Smac.Data\Smac.Data.csproj", "{C5F3B9FE-9BD5-489C-9600-7A774F8F4703}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smac.Service", "Smac.Service\Smac.Service.csproj", "{AD596E3A-D997-4B6C-B1AC-BC6E90F6ED38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smac.UnitTest", "Smac.UnitTest\Smac.UnitTest.csproj", "{1D75AAC7-F2D5-4F3F-968B-FFD0090FCAF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smac.Web", "Smac.Web\Smac.Web.csproj", "{18E57C9E-B059-4B08-ACAD-71C0D923C104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA7F106C-3146-41C0-8A9F-05C66C669D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA7F106C-3146-41C0-8A9F-05C66C669D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA7F106C-3146-41C0-8A9F-05C66C669D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA7F106C-3146-41C0-8A9F-05C66C669D51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26800821-A551-412F-B15A-404F6525A08A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26800821-A551-412F-B15A-404F6525A08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26800821-A551-412F-B15A-404F6525A08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26800821-A551-412F-B15A-404F6525A08A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5F3B9FE-9BD5-489C-9600-7A774F8F4703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F3B9FE-9BD5-489C-9600-7A774F8F4703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F3B9FE-9BD5-489C-9600-7A774F8F4703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F3B9FE-9BD5-489C-9600-7A774F8F4703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD596E3A-D997-4B6C-B1AC-BC6E90F6ED38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD596E3A-D997-4B6C-B1AC-BC6E90F6ED38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD596E3A-D997-4B6C-B1AC-BC6E90F6ED38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD596E3A-D997-4B6C-B1AC-BC6E90F6ED38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D75AAC7-F2D5-4F3F-968B-FFD0090FCAF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D75AAC7-F2D5-4F3F-968B-FFD0090FCAF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D75AAC7-F2D5-4F3F-968B-FFD0090FCAF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D75AAC7-F2D5-4F3F-968B-FFD0090FCAF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E57C9E-B059-4B08-ACAD-71C0D923C104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E57C9E-B059-4B08-ACAD-71C0D923C104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E57C9E-B059-4B08-ACAD-71C0D923C104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E57C9E-B059-4B08-ACAD-71C0D923C104}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

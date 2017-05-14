@@ -1,0 +1,17 @@
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Service\bin\Release\Smac.Service.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Service\bin\Release\Smac.Service.pdb
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Service\bin\Release\Smac.Data.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Service\bin\Release\Smac.Model.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Service\bin\Release\Tedu.Common.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Service\bin\Release\EntityFramework.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Service\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Service\bin\Release\Microsoft.AspNet.Identity.Core.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Service\bin\Release\Smac.Data.pdb
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Service\bin\Release\Tedu.Common.pdb
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Service\bin\Release\Smac.Model.pdb
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Service\bin\Release\EntityFramework.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Service\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Service\bin\Release\Microsoft.AspNet.Identity.Core.xml
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Service\obj\Release\Smac.Service.csprojResolveAssemblyReference.cache
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Service\obj\Release\Smac.Service.dll
+D:\Tedu.com.vn\SmacShop\TDShop\Smac.Service\obj\Release\Smac.Service.pdb

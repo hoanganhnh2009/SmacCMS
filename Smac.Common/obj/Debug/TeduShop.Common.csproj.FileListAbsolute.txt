@@ -1,0 +1,4 @@
+D:\Tedu.com.vn\Smac\TDShop\Smac.Common\bin\Debug\Tedu.Common.dll
+D:\Tedu.com.vn\Smac\TDShop\Smac.Common\bin\Debug\Tedu.Common.pdb
+D:\Tedu.com.vn\Smac\TDShop\Smac.Common\obj\Debug\Tedu.Common.dll
+D:\Tedu.com.vn\Smac\TDShop\Smac.Common\obj\Debug\Tedu.Common.pdb

@@ -1,0 +1,139 @@
+﻿<div class="row">
+    <div class="col-md-12">
+        <!-- Begin: life time stats -->
+        <div class="portlet light">
+            <div class="portlet-title">
+                <div class="caption">
+                    <i class="fa fa-shopping-cart"></i>Danh sách quyền
+                </div>
+                <div class="actions">
+                    <a ui-sref="add_application_role" class="btn btn-circle btn-info">
+                        <i class="fa fa-plus"></i>
+                        <span class="hidden-xs"> Thêm mới </span>
+                    </a>
+                    <div class="btn-group">
+                        <a class="btn btn-circle btn-default dropdown-toggle" href="javascript:;" data-toggle="dropdown">
+                            <i class="fa fa-share"></i>
+                            <span class="hidden-xs"> Công cụ </span>
+                            <i class="fa fa-angle-down"></i>
+                        </a>
+                        <div class="dropdown-menu pull-right">
+                            <li>
+                                <a href="javascript:;" ng-click="exportExcel()"> Xuất ra Excel </a>
+                            </li>
+                            <li>
+                                <a href="javascript:;" ng-click="exportPdf()">Xuất ra PDF </a>
+                            </li>
+                            <li>
+                                <a href="javascript:;" ng-click="exportXML()"> Xuất ra XML </a>
+                            </li>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portlet-body">
+                <div class="table-container">
+
+                    <div id="datatable_products_wrapper" class="dataTables_wrapper dataTables_extended_wrapper no-footer">
+                        <div class="row">
+                            <div class="col-md-8 col-sm-12">
+                                <div class="dataTables_paginate paging_bootstrap_extended">
+                                    <div class="pagination-panel">
+                                        Trang <a href="#" class="btn btn-sm default prev disabled"><i class="fa fa-angle-left"></i></a><input type="text" class="pagination-panel-input form-control input-sm input-inline input-mini" maxlenght="5" style="text-align:center; margin: 0 5px;" value="{{page+1}}" /><a href="#" class="btn btn-sm default next"><i class="fa fa-angle-right"></i></a>
+                                        của <span class="pagination-panel-total">{{pagesCount}}</span>
+                                    </div>
+                                </div><div class="dataTables_length">
+                                    <label>
+                                        <span class="seperator">|</span>
+                                        Hiện thị <select name="datatable_products_length" ng-change="getProducts()" ng-model="limitedRow" aria-controls="datatable_products" class="form-control input-xs input-sm input-inline"><option value="5">5</option><option value="10" ng-selected="true">10</option><option value="20">20</option><option value="50">50</option><option value="100">100</option><option value="150">150</option></select> bản ghi
+                                    </label> |
+                                          Trang: {{page+1}} - Tổng số bản ghi: {{totalCount}}
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-12">
+                                <div class="table-group-actions pull-right">
+                                    <span></span>
+                                    <select class="table-group-action-input form-control input-inline input-small input-sm" ng-model="actions">
+                                        <option value="">Tác vụ...</option>
+                                        <option value="publish">Publish</option>
+                                        <option value="unpublished">Un-publish</option>
+                                        <option value="delete">Bỏ vào thùng rác</option>
+                                    </select>
+                                    <button class="btn btn-sm btn-success table-group-action-submit" ng-click="Apply()" id="btnDelete">
+                                        <i class="fa fa-check"></i> Áp dụng
+                                    </button>
+                                </div>
+                            </div>
+                        </div><div class="table-responsive">
+                            <table class="table table-striped table-bordered table-hover table-checkable dataTable no-footer" id="datatable_products" aria-describedby="datatable_products_info" role="grid">
+                                <thead>
+                                    <tr role="row" class="heading">
+                                        <th width="1%" class="sorting_disabled" rowspan="1" colspan="1">
+                                            <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
+                                                <input type="checkbox" class="group-checkable" ng-click="selectAll()">
+                                                <span></span>
+                                            </label>
+                                        </th>
+                                        <th width="10%" class="sorting_asc" rowspan="1" colspan="1"> Tên quyền </th>
+                                        <th width="15%" class="sorting" rowspan="1" colspan="1"> Mô tả </th>
+                                        <th width="10%" class="sorting" rowspan="1" colspan="1"> Thao tác </th>
+                                    </tr>
+                                    <tr role="row" class="filter">
+                                        <td rowspan="1" colspan="1"> </td>
+                                        <td rowspan="1" colspan="1">
+                                            <input type="text" class="form-control form-filter input-sm" ng-model="s.name">
+                                        </td>
+                                        <td rowspan="1" colspan="1">
+                                            <input type="text" class="form-control form-filter input-sm" ng-model="s.description">
+                                        </td>
+                                        <td rowspan="1" colspan="1">
+                                            <div class="margin-bottom-5">
+                                                <button class="btn btn-sm btn-success filter-submit margin-bottom" ng-click="searchMulti()">
+                                                    <i class="fa fa-search"></i> Tìm kiếm
+                                                </button>
+                                                <input type="hidden" id="txtSearch" ng-model="filterExpression" class="form-control" placeholder="Nhập từ khóa..." />
+                                            </div>
+                                            <button class="btn btn-sm btn-default filter-cancel" ng-click="reset()">
+                                                <i class="fa fa-times"></i> Reset
+                                            </button>
+                                        </td>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr ng-repeat="item in data | filter:filterExpression">
+                                        <td><label class="mt-checkbox mt-checkbox-single mt-checkbox-outline"><input name="all" ng-model="item.checked" type="checkbox" class="checkboxes"><span></span></label></td>
+                                        <td><a ui-sref="edit_application_role({id:item.Id})">{{item.Name}}</a></td>
+                                        <td>{{item.Description}}</td>
+                                        <td>
+                                            <a ui-sref="edit_application_role({id:item.Id})" class="btn btn-sm btn-default btn-circle btn-editable"><i class="fa fa-pencil"></i></a>
+                                            <button class="btn btn-sm btn-danger" ng-click="deleteItem(item.Id)"><i class="fa fa-trash"></i></button>
+                                        </td>
+                                    </tr>
+                            </table>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-8 col-sm-12">
+                                <div class="dataTables_paginate paging_bootstrap_extended">
+                                    <div class="pagination-panel">
+                                        Trang <a href="#" class="btn btn-sm default prev disabled"><i class="fa fa-angle-left"></i></a><input type="text" class="pagination-panel-input form-control input-sm input-inline input-mini" maxlenght="5" style="text-align:center; margin: 0 5px;" value="{{page+1}}" /><a href="#" class="btn btn-sm default next"><i class="fa fa-angle-right"></i></a>
+                                        của <span class="pagination-panel-total">{{pagesCount}}</span>
+                                    </div>
+                                </div><div class="dataTables_length">
+                                    <label>
+                                        <span class="seperator">|</span>
+                                        Hiện thị <select name="datatable_products_length" ng-model="limitedRow" aria-controls="datatable_products" class="form-control input-xs input-sm input-inline"><option value="10">10</option><option value="20">20</option><option value="50">50</option><option value="100">100</option><option value="150">150</option></select> bản ghi
+                                    </label> |
+                                          Trang: {{page+1}} - Tổng số bản ghi: {{totalCount}}
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-12">
+                                <pager-directive page="{{page}}" custom-path="{{customPath}}" pages-count="{{pagesCount}}" total-count="{{totalCount}}" search-func="search(page)"></pager-directive>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End: life time stats -->
+    </div>
+</div>

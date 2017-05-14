@@ -1,0 +1,153 @@
+﻿<h<div class="row">
+    <div class="col-md-12">
+        <div class="portlet light ">
+            <div class="portlet-title">
+                <div class="caption font-red-sunglo">
+                    <span class="caption-subject bold uppercase">Cập nhật danh mục {{productCategory.Name}}</span>
+                </div>
+                <div class="actions">
+                    <a class="btn btn-circle btn-icon-only blue" href="javascript:;">
+                        <i class="icon-cloud-upload"></i>
+                    </a>
+                    <a class="btn btn-circle btn-icon-only green" href="javascript:;">
+                        <i class="icon-wrench"></i>
+                    </a>
+                    <a class="btn btn-circle btn-icon-only red" href="javascript:;">
+                        <i class="icon-trash"></i>
+                    </a>
+                    <a class="btn btn-circle btn-icon-only btn-default fullscreen" href="javascript:;" data-original-title="" title=""> </a>
+                </div>
+            </div>
+            <div class="portlet-body form">
+                <form action="#" class="form-horizontal" novalidate name="frmUpdateProductCategory" role="form">
+                    <div class="form-body">
+                        <div class="alert alert-danger display-hide">
+                            <button class="close" data-close="alert"></button> You have some form errors. Please check below.
+                        </div>
+                        <div class="alert alert-success display-hide">
+                            <button class="close" data-close="alert"></button> Your form validation is successful!
+                        </div>
+                        <div class="form-group form-md-line-input">
+                            <label class="col-md-3 control-label" for="form_control_1">
+                                Tên danh mục
+                                <span class="required" aria-required="true">*</span>
+                            </label>
+                            <div class="col-md-9">
+                                <input type="text" class="form-control" ng-change="GetSeoTitle()" ng-model="productCategory.Name" name="name">
+                                <div class="form-control-focus"> </div>
+                                <span class="help-block">Nhập tên danh mục</span>
+                            </div>
+                        </div>
+                        <div class="form-group form-md-line-input">
+                            <label class="col-md-3 control-label" for="form_control_1">
+                                Tiêu đề SEO
+                                <span class="required" aria-required="true">*</span>
+                            </label>
+                            <div class="col-md-9">
+                                <input type="text" class="form-control" ng-model="productCategory.Alias" placeholder="" name="alias">
+                                <div class="form-control-focus"> </div>
+                                <span class="help-block">Nhập tiêu đề SEO</span>
+                            </div>
+                        </div>
+                        <div class="form-group form-md-line-input">
+                            <label class="col-md-3 control-label" for="form_control_1">
+                                Danh mục cha
+                                <span class="required" aria-required="true">*</span>
+                            </label>
+                            <div class="col-md-9">
+                                <select class="form-control" name="parentID" aria-required="true" aria-describedby="delivery-error" aria-invalid="true" ng-model="productCategory.ParentID" ng-options="option.ID as option.Name for option in parentCategories">
+                                    <option value="">Danh mục cha</option>
+                                </select>
+                                <input type="hidden" name="parentID" ng-model="productCategory.ParentID"  />
+                            </div>
+                        </div>
+                        <div class="form-group form-md-line-input">
+                            <label class="col-md-3 control-label" for="form_control_1">Mô tả ngắn</label>
+                            <div class="col-md-9">
+                                <textarea class="form-control" name="memo" rows="3" ng-model="productCategory.Description"></textarea>
+                                <div class="form-control-focus"> </div>
+                                <span class="help-block">Nhập mô tả ngắn</span>
+                            </div>
+                        </div>
+                        
+                        <div class="form-group form-md-line-input">
+                            <label class="col-md-3 control-label" for="form_control_1">
+                                Thứ tự hiển thị
+                                <span class="required" aria-required="true">*</span>
+                            </label>
+                            <div class="col-md-9">
+                                <input type="number" class="form-control" placeholder="" name="order" ng-model="productCategory.DisplayOrder">
+                                <div class="form-control-focus"> </div>
+                                <span class="help-block">Nhập thứ tự hiển thị</span>
+                            </div>
+                        </div>
+                        <div class="form-group form-md-checkboxes">
+                            <label class="col-md-3 control-label" for="form_control_1">Trạng thái</label>
+                            <div class="col-md-9">
+                                <div class="md-checkbox-inline">
+                                    <div class="md-checkbox">
+                                        <input type="checkbox" id="checkbox1_3" name="Status" value="1" class="md-check" ng-model="productCategory.Status" ng-checked="productCategory.Status">
+                                        <label for="checkbox1_3">
+                                            <span class="inc"></span>
+                                            <span class="check"></span>
+                                            <span class="box"></span> Kích hoạt
+                                        </label>
+                                    </div>
+                                    <div class="md-checkbox">
+                                        <input type="checkbox" id="checkbox1_4" name="HomeFlag" value="2" class="md-check" ng-model="productCategory.HomeFlag" ng-checked="productCategory.HomeFlag">
+                                        <label for="checkbox1_4">
+                                            <span class="inc"></span>
+                                            <span class="check"></span>
+                                            <span class="box"></span> Hiển thị trang chủ
+                                        </label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group form-md-line-input">
+                            <label class="col-md-3 control-label" for="form_control_1">
+                                Hình ảnh
+                                <span class="required" aria-required="true">*</span>
+                            </label>
+                            <div class="col-md-9">
+                                <input type="text" class="form-control" placeholder="" ng-model="productCategory.Image" name="image">
+                                <div class="form-control-focus"> </div>
+                                <span class="help-block">Upload hình ảnh</span>
+                            </div>
+                        </div>
+                        <div class="form-group form-md-line-input">
+                            <label class="col-md-3 control-label" for="form_control_1">
+                                Meta Keyword
+                                <span class="required" aria-required="true">*</span>
+                            </label>
+                            <div class="col-md-9">
+                                <input type="text" class="form-control" placeholder="" ng-model="productCategory.MetaKeyword" name="image">
+                                <div class="form-control-focus"> </div>
+                                <span class="help-block">Meta Keyword</span>
+                            </div>
+                        </div>
+                        <div class="form-group form-md-line-input">
+                            <label class="col-md-3 control-label" for="form_control_1">
+                                Meta Description
+                                <span class="required" aria-required="true">*</span>
+                            </label>
+                            <div class="col-md-9">
+                                <input type="text" class="form-control" placeholder="" ng-model="productCategory.MetaDescription" name="image">
+                                <div class="form-control-focus"> </div>
+                                <span class="help-block">Meta Description</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-actions">
+                        <div class="row">
+                            <div class="col-md-offset-3 col-md-9">
+                                <button type="button" ng-click="UpdateProductCategory()" class="btn green">Lưu dữ liệu</button>
+                                <button type="reset" class="btn default">Reset</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
