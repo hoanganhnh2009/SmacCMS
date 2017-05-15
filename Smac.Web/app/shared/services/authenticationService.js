@@ -26,13 +26,13 @@
                 authData.authenticationData.userName = tokenInfo.userName;
                 authData.authenticationData.accessToken = tokenInfo.accessToken;
                 $('.page-md').removeClass("login");
-                $('.showauth').addClass("block")
-                $('.backstretch,.logins').addClass("hidden")
+                $('.showauth').addClass("block").removeClass("hidden");
+                $('.backstretch,.logins').addClass("hidden").removeClass("block");
             }
             else {
                 $('.page-md').addClass("login");
-                $('.logins').addClass("block")
-                $('.backstretch,.showauth').removeClass("displaynone")
+                $('.backstretch,.logins').addClass("block").removeClass("hidden");
+                $('.showauth').addClass("hidden").removeClass("block");
             }
         }
 

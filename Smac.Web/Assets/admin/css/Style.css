@@ -23,12 +23,13 @@
 .checkbox-group{
     float:left;
 }
+.block{
+    display:block !important;
+}
 .hidden{
     display:none !important;
 }
-.block{
-    display:none !important;
-}
+
 .overlay {
     position: absolute;
     width: 100%;
@@ -44,4 +45,7 @@
     left: 50%;
     margin-left: -32px;
     margin-top: -32px;
+}
+.page-quick-sidebar-wrapper .page-quick-sidebar .nav-tabs>li>a{
+    font-size:12px;
 }

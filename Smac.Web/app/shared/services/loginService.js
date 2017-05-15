@@ -22,9 +22,8 @@
                 authData.authenticationData.accessToken = userInfo.accessToken;
                 //view login 
                 $('.page-md').removeClass("login");
-                $('.showauth').css("display", "block");
-                $('.logins').css("display", "none");
-                $('.backstretch').addClass("displaynone")
+                $('.showauth').addClass("block").removeClass("hidden");
+                $('.backstretch,.logins').addClass("hidden").removeClass("block");
                 deferred.resolve(null);
             }, function (err, status) {
                 authData.authenticationData.IsAuthenticated = false;
@@ -42,9 +41,8 @@
                 authData.authenticationData.accessToken = "";
                 //view logout
                 $('.page-md').addClass("login");
-                $('.showauth').css("display", "none");
-                $('.logins').css("display", "block");
-                $('.backstretch').removeClass("displaynone")
+                $('.backstretch,.logins').addClass("block").removeClass("hidden");
+                $('.showauth').addClass("hidden").removeClass("block");
 
             }, null)
         }
