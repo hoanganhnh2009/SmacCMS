@@ -1,3 +1,3 @@
-git add *
-git commit -m somechange
+git add .
+git commit -m update-cms
 git push

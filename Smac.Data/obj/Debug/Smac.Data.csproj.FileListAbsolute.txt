@@ -58,7 +58,6 @@ D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\bin\Debug\EntityFramework.xml
 D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\bin\Debug\EntityFramework.SqlServer.xml
 D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\obj\Debug\Smac.Data.csprojResolveAssemblyReference.cache
 D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\obj\Debug\TedShop.Data.Migrations.Initial.resources
 D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\obj\Debug\TedShop.Data.Migrations.IntergrateAspnetIdentity.resources
 D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\obj\Debug\TedShop.Data.Migrations.FixProduct.resources

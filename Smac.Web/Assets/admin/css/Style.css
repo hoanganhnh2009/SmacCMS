@@ -23,7 +23,10 @@
 .checkbox-group{
     float:left;
 }
-.displaynone{
+.hidden{
+    display:none !important;
+}
+.block{
     display:none !important;
 }
 .overlay {
