@@ -39,9 +39,9 @@
                                 <span class="required" aria-required="true">*</span>
                             </label>
                             <div class="col-md-9">
-                                <div class="md-checkbox checkbox-group"  ng-repeat="role in roles">
-                                    <input type="checkbox" id="checkbox1_{{group.ID}}" checklist-model="group.Roles" checklist-value="role">
-                                    <label for="checkbox1_{{group.ID}}">
+                                <div class="md-checkbox checkbox-group" ng-repeat="role in roles">
+                                    <input type="checkbox" id="checkbox1_{{$index}}" checklist-model="group.Roles" checklist-value="role">
+                                    <label for="checkbox1_{{$index}}">
                                         <span class="inc"></span>
                                         <span class="check"></span>
                                         <span class="box"></span>{{role.Description}}

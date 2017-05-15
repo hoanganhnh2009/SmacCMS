@@ -26,14 +26,13 @@
                 authData.authenticationData.userName = tokenInfo.userName;
                 authData.authenticationData.accessToken = tokenInfo.accessToken;
                 $('.page-md').removeClass("login");
-                $('.showauth').addClass("displayblock")
-                $('.logins, .backstretch').addClass("displaynone")
-                
+                $('.showauth').addClass("block").removeClass("hidden");
+                $('.backstretch,.logins').addClass("hidden").removeClass("block");
             }
             else {
                 $('.page-md').addClass("login");
-                $('.showauth').addClass("displaynone")
-                $('.logins, .backstretch').addClass("displayblock")
+                $('.backstretch,.logins').addClass("block").removeClass("hidden");
+                $('.showauth').addClass("hidden").removeClass("block");
             }
         }
 
@@ -56,7 +55,7 @@
             });
             return deferred.promise;
         }
-       
+
         this.init();
     }
     ]);

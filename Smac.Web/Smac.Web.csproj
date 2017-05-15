@@ -7252,7 +7252,6 @@
     <Content Include="Assets\admin\pages\scripts\widgets.min.js" />
     <Content Include="Assets\admin\templates\product-detail.html" />
     <Content Include="favicon.ico" />
-    <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include=".bowerrc" />
     <Content Include="bower.json" />
@@ -7693,12 +7692,10 @@
     <Folder Include="Assets\admin\libs\checklist-model\test\" />
     <Folder Include="Assets\client\" />
     <Folder Include="Content\" />
+    <Folder Include="fonts\" />
     <Folder Include="Uploads\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="fonts\glyphicons-halflings-regular.woff" />
-    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
-    <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="packages.config" />
     <Content Include="app\components\product_categories\productCategory.module.js" />
     <Content Include="Assets\admin\global\img\social\Thumbs.db" />
