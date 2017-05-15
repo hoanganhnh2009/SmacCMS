@@ -20,6 +20,8 @@
                 authData.authenticationData.IsAuthenticated = true;
                 authData.authenticationData.userName = userName;
                 authData.authenticationData.accessToken = userInfo.accessToken;
+                localStorage.setItem("TokenInfo", userInfo);
+                console.log(localStorage.getItem("TokenInfo"));
                 //view login 
                 $('.page-md').removeClass("login");
                 $('.showauth').css("display", "block");

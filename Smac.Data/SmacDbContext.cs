@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using Smac.Model.Models;
 using Microsoft.AspNet.Identity.EntityFramework;
 
+
 namespace Smac.Data
 {
     public class SmacDbContext : IdentityDbContext<ApplicationUser>
@@ -17,7 +18,7 @@ namespace Smac.Data
         }
 
         public DbSet<Footer> Footers { set; get; }
-        public DbSet<Menu> Menus { set; get; }
+        
         public DbSet<MenuGroup> MenuGroups { set; get; }
         public DbSet<Order> Orders { set; get; }
         public DbSet<OrderDetail> OrderDetails { set; get; }
@@ -42,6 +43,11 @@ namespace Smac.Data
         public DbSet<ApplicationRole> ApplicationRoles { set; get; }
         public DbSet<ApplicationRoleGroup> ApplicationRoleGroups { set; get; }
         public DbSet<ApplicationUserGroup> ApplicationUserGroups { set; get; }
+        public DbSet<Menu> Menus { set; get; }
+        public DbSet<GroupMod> GroupMods { set; get; }
+        public DbSet<SiteMod> SiteMods { set; get; }
+        public DbSet<MenuItem> MenuItems { set; get; }
+        public DbSet<SiteMod_Type> SiteMod_Types { set; get; }
 
         public static SmacDbContext Create()
         {

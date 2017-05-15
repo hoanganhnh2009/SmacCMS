@@ -1,4 +1,5 @@
-﻿using Smac.Data.Infrastructure;
+﻿
+using Smac.Data.Infrastructure;
 using Smac.Model.Models;
 
 namespace Smac.Data.Repositories

@@ -84,8 +84,17 @@
     <Compile Include="Migrations\201705131105280_addusergroup.Designer.cs">
       <DependentUpon>201705131105280_addusergroup.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201705150517134_create_Mod_menu_Admod.cs" />
+    <Compile Include="Migrations\201705150517134_create_Mod_menu_Admod.Designer.cs">
+      <DependentUpon>201705150517134_create_Mod_menu_Admod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201705150551086_create_AdModUser.cs" />
+    <Compile Include="Migrations\201705150551086_create_AdModUser.Designer.cs">
+      <DependentUpon>201705150551086_create_AdModUser.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\AdModRepository.cs" />
     <Compile Include="Repositories\ApplicationGroupRepository.cs" />
     <Compile Include="Repositories\ApplicationRoleGroupRepository.cs" />
     <Compile Include="Repositories\ApplicationRoleRepository.cs" />
@@ -139,6 +148,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201705131105280_addusergroup.resx">
       <DependentUpon>201705131105280_addusergroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201705150517134_create_Mod_menu_Admod.resx">
+      <DependentUpon>201705150517134_create_Mod_menu_Admod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201705150551086_create_AdModUser.resx">
+      <DependentUpon>201705150551086_create_AdModUser.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

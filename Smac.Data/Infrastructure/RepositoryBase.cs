@@ -70,7 +70,10 @@ namespace Smac.Data.Infrastructure
             return dbSet.Where(where).ToList();
         }
 
-
+        public virtual IEnumerable<T> Search(Expression<Func<T, bool>> expression)
+        {
+            return dbSet.Where(expression).ToList();
+        }
         public virtual int Count(Expression<Func<T, bool>> where)
         {
             return dbSet.Count(where);

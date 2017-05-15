@@ -3,3 +3,8 @@ D:\Tedu.com.vn\SmacShop\TDShop\Smac.Common\bin\Debug\Tedu.Common.pdb
 D:\Tedu.com.vn\SmacShop\TDShop\Smac.Common\obj\Debug\Tedu.Common.dll
 D:\Tedu.com.vn\SmacShop\TDShop\Smac.Common\obj\Debug\Tedu.Common.pdb
 D:\Tedu.com.vn\SmacShop\TDShop\Smac.Common\obj\Debug\Smac.Common.csprojResolveAssemblyReference.cache
+E:\PROJECT\SmacCMS\Smac.Common\bin\Debug\Tedu.Common.dll
+E:\PROJECT\SmacCMS\Smac.Common\bin\Debug\Tedu.Common.pdb
+E:\PROJECT\SmacCMS\Smac.Common\obj\Debug\Smac.Common.csprojResolveAssemblyReference.cache
+E:\PROJECT\SmacCMS\Smac.Common\obj\Debug\Tedu.Common.dll
+E:\PROJECT\SmacCMS\Smac.Common\obj\Debug\Tedu.Common.pdb

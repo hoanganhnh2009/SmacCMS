@@ -67,3 +67,30 @@ D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\obj\Debug\TedShop.Data.Migrations.
 D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\obj\Debug\Smac.Data.csproj.GenerateResource.Cache
 D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\obj\Debug\Smac.Data.dll
 D:\Tedu.com.vn\SmacShop\Develop CMS\Smac.Data\obj\Debug\Smac.Data.pdb
+E:\PROJECT\SmacCMS\Smac.Data\bin\Debug\Smac.Data.dll.config
+E:\PROJECT\SmacCMS\Smac.Data\bin\Debug\Smac.Data.dll
+E:\PROJECT\SmacCMS\Smac.Data\bin\Debug\Smac.Data.pdb
+E:\PROJECT\SmacCMS\Smac.Data\bin\Debug\EntityFramework.dll
+E:\PROJECT\SmacCMS\Smac.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\PROJECT\SmacCMS\Smac.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\PROJECT\SmacCMS\Smac.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\PROJECT\SmacCMS\Smac.Data\bin\Debug\Smac.Model.dll
+E:\PROJECT\SmacCMS\Smac.Data\bin\Debug\Tedu.Common.dll
+E:\PROJECT\SmacCMS\Smac.Data\bin\Debug\Tedu.Common.pdb
+E:\PROJECT\SmacCMS\Smac.Data\bin\Debug\Smac.Model.pdb
+E:\PROJECT\SmacCMS\Smac.Data\bin\Debug\Smac.Model.dll.config
+E:\PROJECT\SmacCMS\Smac.Data\bin\Debug\EntityFramework.xml
+E:\PROJECT\SmacCMS\Smac.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\PROJECT\SmacCMS\Smac.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\PROJECT\SmacCMS\Smac.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\PROJECT\SmacCMS\Smac.Data\obj\Debug\Smac.Data.csprojResolveAssemblyReference.cache
+E:\PROJECT\SmacCMS\Smac.Data\obj\Debug\TedShop.Data.Migrations.Initial.resources
+E:\PROJECT\SmacCMS\Smac.Data\obj\Debug\TedShop.Data.Migrations.IntergrateAspnetIdentity.resources
+E:\PROJECT\SmacCMS\Smac.Data\obj\Debug\TedShop.Data.Migrations.FixProduct.resources
+E:\PROJECT\SmacCMS\Smac.Data\obj\Debug\TedShop.Data.Migrations.RenameTableIdentity.resources
+E:\PROJECT\SmacCMS\Smac.Data\obj\Debug\TedShop.Data.Migrations.addusergroup.resources
+E:\PROJECT\SmacCMS\Smac.Data\obj\Debug\Smac.Data.csproj.GenerateResource.Cache
+E:\PROJECT\SmacCMS\Smac.Data\obj\Debug\Smac.Data.dll
+E:\PROJECT\SmacCMS\Smac.Data\obj\Debug\Smac.Data.pdb
+E:\PROJECT\SmacCMS\Smac.Data\obj\Debug\TedShop.Data.Migrations.create_Mod_menu_Admod.resources
+E:\PROJECT\SmacCMS\Smac.Data\obj\Debug\TedShop.Data.Migrations.create_AdModUser.resources

@@ -26,3 +26,17 @@ D:\Tedu.com.vn\SmacShop\TDShop\Smac.Model\bin\Debug\Microsoft.AspNet.Identity.En
 D:\Tedu.com.vn\SmacShop\TDShop\Smac.Model\obj\Debug\Smac.Model.csprojResolveAssemblyReference.cache
 D:\Tedu.com.vn\SmacShop\TDShop\Smac.Model\obj\Debug\Smac.Model.dll
 D:\Tedu.com.vn\SmacShop\TDShop\Smac.Model\obj\Debug\Smac.Model.pdb
+E:\PROJECT\SmacCMS\Smac.Model\bin\Debug\Smac.Model.dll.config
+E:\PROJECT\SmacCMS\Smac.Model\bin\Debug\Smac.Model.dll
+E:\PROJECT\SmacCMS\Smac.Model\bin\Debug\Smac.Model.pdb
+E:\PROJECT\SmacCMS\Smac.Model\bin\Debug\EntityFramework.dll
+E:\PROJECT\SmacCMS\Smac.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\PROJECT\SmacCMS\Smac.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\PROJECT\SmacCMS\Smac.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\PROJECT\SmacCMS\Smac.Model\bin\Debug\EntityFramework.xml
+E:\PROJECT\SmacCMS\Smac.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\PROJECT\SmacCMS\Smac.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\PROJECT\SmacCMS\Smac.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\PROJECT\SmacCMS\Smac.Model\obj\Debug\Smac.Model.csprojResolveAssemblyReference.cache
+E:\PROJECT\SmacCMS\Smac.Model\obj\Debug\Smac.Model.dll
+E:\PROJECT\SmacCMS\Smac.Model\obj\Debug\Smac.Model.pdb

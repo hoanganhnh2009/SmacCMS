@@ -26,6 +26,9 @@
 .displaynone{
     display:none !important;
 }
+.displayblock {
+    display: block !important;
+}
 .overlay {
     position: absolute;
     width: 100%;

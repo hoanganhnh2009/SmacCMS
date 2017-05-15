@@ -35,7 +35,7 @@ namespace Smac.Web.Api
         }
         [Route("getlistpaging")]
         [HttpGet]
-        //[Authorize(Roles ="ViewUser")]
+        [Authorize(Roles ="ViewUser")]
         public HttpResponseMessage GetListPaging(HttpRequestMessage request, int page, int pageSize, string filter = null)
         {
             return CreateHttpResponse(request, () =>
@@ -61,12 +61,11 @@ namespace Smac.Web.Api
 
         [Route("detail/{id}")]
         [HttpGet]
-        //[Authorize(Roles = "ViewUser")]
+        [Authorize(Roles = "ViewUser")]
         public HttpResponseMessage Details(HttpRequestMessage request, string id)
         {
             if (string.IsNullOrEmpty(id))
             {
-
                 return request.CreateErrorResponse(HttpStatusCode.BadRequest, nameof(id) + " không có giá trị.");
             }
             var user = _userManager.FindByIdAsync(id);
@@ -86,7 +85,7 @@ namespace Smac.Web.Api
 
         [HttpPost]
         [Route("add")]
-        //[Authorize(Roles = "AddUser")]
+        [Authorize(Roles = "AddUser")]
         public async Task<HttpResponseMessage> Create(HttpRequestMessage request, ApplicationUserViewModel applicationUserViewModel)
         {
             if (ModelState.IsValid)
@@ -142,7 +141,7 @@ namespace Smac.Web.Api
 
         [HttpPut]
         [Route("update")]
-        //[Authorize(Roles = "UpdateUser")]
+        [Authorize(Roles = "UpdateUser")]
         public async Task<HttpResponseMessage> Update(HttpRequestMessage request, ApplicationUserViewModel applicationUserViewModel)
         {
             if (ModelState.IsValid)
@@ -191,7 +190,7 @@ namespace Smac.Web.Api
 
         [HttpDelete]
         [Route("delete")]
-        //[Authorize(Roles ="DeleteUser")]
+        [Authorize(Roles ="DeleteUser")]
         public async Task<HttpResponseMessage> Delete(HttpRequestMessage request, string id)
         {
             var appUser = await _userManager.FindByIdAsync(id);
